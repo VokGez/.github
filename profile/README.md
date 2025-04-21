@@ -1,4 +1,5 @@
 # VokGez
+Where Curiosity Has No Borders
 
 ![GitHub](https://img.shields.io/badge/GitHub-VokGez-blue?logo=github&style=for-the-badge)
 ![GitLab](https://img.shields.io/badge/GitLab-VokGez-blue?logo=linkedin&style=for-the-badge)
